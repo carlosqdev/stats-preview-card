@@ -1,6 +1,6 @@
 # stats-preview-card. ![Licence_badge](https://img.shields.io/github/license/carlosqdev/stats-preview-card?style=for-the-badge)
 
-This is a great small challenge to help get you used to building to a design. There's no JS in this project, so you'll be able to focus on your HTML &amp; CSS skills.
+Este es un pequeño desafío para practicar como construir según un diseño. No hay JavaScript en este proyecto, solamente utilice mis habilidades en HTML y CSS.
 
 ![demo](https://github.com/carlosqdev/stats-preview-card/blob/main/preview.jpg?raw=true)
 
